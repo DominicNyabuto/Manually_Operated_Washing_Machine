@@ -29,6 +29,8 @@ This project addresses the practical challenges of laundry in rural areas with l
 | **Mechanical Drive** | The user sits on the frame and presses the bicycle-style pedals. This pedaling motion drives a standard 3/32" multi-speed bicycle chain connected between a large driver sprocket and a smaller driven sprocket mounted on a catcher. |
 | **Agitation System** | The smaller sprocket turns a 78cm long, 20mm-diameter solid shaft that is fixed to the inner drum, causing it to rotate. As the inner drum spins, the water agitates and rubs against the clothing, thoroughly cleaning the load. |
 
+![Pedal Crank Washing Machine CAD](Assets/CAD-Images/pedal-crank-washing-machine-CAD-2.png)
+
 
 ## Future Applications
 The pedal-powered drive mechanism designed for this project can be adapted as a base for other labor-saving rural technologies, including:
