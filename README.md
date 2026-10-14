@@ -15,6 +15,16 @@ This project addresses the practical challenges of laundry in rural areas with l
 
 ## Technical Specifications
 
+| Parameter | Specifications |
+| --------- | -------------- |
+| Inner Drum | Diameter |  | Column2 | Column3 | Column4 |
+| --------------- | --------------- | --------------- | --------------- |
+| Item1.1 | Item2.1 | Item3.1 | Item4.1 |
+| Item1.2 | Item2.2 | Item3.2 | Item4.2 |
+| Item1.3 | Item2.3 | Item3.3 | Item4.3 |
+
+
+
 ParameterSpecificationInner Drum Diameter400 mm   Outer Drum Diameter600 mm   Inner Drum Capacity80 Liters   Outer Drum Capacity100 Liters   Laundry Capacity5 kg of clothes per load   Water UsageMaximum 5L water per 0.5kg of clothes   Power InputMaximum 100W (comfortable human output level)   Operation TimeMaximum 20 minutes each for wash and rinse cycles   Working PrincipleThe machine is built around an 80-liter perforated inner plastic drum housed within a 100-liter outer plastic drum. To operate the machine, the outer drum is filled halfway with water and detergent, and the inner drum is loaded with clothing.   The user sits on the frame and presses the bicycle-style pedals. This pedaling motion drives a standard 3/32" multi-speed bicycle chain connected between a large driver sprocket and a smaller driven sprocket mounted on a catcher. The smaller sprocket turns a 78cm long, 20mm-diameter solid shaft that is fixed to the inner drum, causing it to rotate. As the inner drum spins, the water agitates and rubs against the clothing, thoroughly cleaning the load.  
 
 ## Future Applications
