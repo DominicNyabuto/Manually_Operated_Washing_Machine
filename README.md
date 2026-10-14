@@ -19,8 +19,8 @@ This project addresses the practical challenges of laundry in rural areas with l
 | :--- | :--- |
 | **Inner Drum Diameter** | 400 mm |
 | **Outer Drum Diameter** | 600 mm |
-| **Inner Drum Capacity** | 80 Liters |
-| **Outer Drum Capacity** | 100 Liters |
+| **Inner Drum Capacity** | 40 Liters |
+| **Outer Drum Capacity** | 70 Liters |
 | **Laundry Capacity** | 5 kg of clothes per load |
 | **Water Usage** | Maximum 5L water per 0.5kg of clothes |
 | **Power Input** | Maximum 100W (comfortable human output level) |
